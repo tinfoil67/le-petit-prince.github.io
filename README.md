@@ -1,2 +1,2 @@
-# le-petit-prince.github.io
+# tinfoil67.github.io
 le-petit-prince
