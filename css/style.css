@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  background: #000;
+}
+body .container {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+body canvas {
+  position: absolute;
+}
